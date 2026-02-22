@@ -1,0 +1,1 @@
+trap 'kill $(jobs -p)' EXIT; while true; do for i in $(seq 1 $2); do curl -s -o /dev/null "$1" & done; wait; done
