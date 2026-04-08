@@ -1,6 +1,7 @@
-> Usage: bash ./EMRDoS-v2 http://example.org/ THREADS
+# EMRDoS-v2
+» Usage: bash ./EMRDoS-v2 http://example.org/ THREADS
 
-> Example: bash ./EMRDoS-v2 http://example.org/ 1000
+» Example: bash ./EMRDoS-v2 http://example.org/ 1000
 
 Press CTRL+C to stop.
 Use 1000 or more threads for a strong stress test.
